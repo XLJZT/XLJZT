@@ -6,8 +6,8 @@
 ![skills](https://skillicons.dev/icons?i=c,cpp,cs,css,docker,flask,git,github,gitlab,html,js,linux,md,mysql,nginx,ps,php,qt,redis,rust,sqlite,vim,vscode)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XLJZT&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leizhenpeng&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leizhenpeng&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XLJZT&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XLJZT&theme=github)
 
 <!---
 XLJZT/XLJZT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
