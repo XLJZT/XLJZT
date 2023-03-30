@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @XLJZT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 xljzts@163.com
-
+## 👋 Hi, I'm XLJZT, a Developer 🚀 from China.
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/XLJZT)
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:xljzts@163.com)
+[![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)](https://www.xljzt.top/)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XLJZT&theme=github)
