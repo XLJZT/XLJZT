@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 xljzts@163.com
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
-</div>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XLJZT&theme=github_dark)
 <!---
